@@ -1,3 +1,11 @@
+div {
+    border:1px solid black ;
+    margin: 5px;
+    width:800px;
+    padding: 20PX;
+}
+
+/* 
 .flex {
     min-width: 150px;
     height: 800px;
@@ -23,4 +31,4 @@
     height: 30px;
     width: 30px;
     border: 2px solid blue;
-}
+} */
